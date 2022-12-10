@@ -1,0 +1,44 @@
+.heading {
+    width: 100%;
+    text-align: center;
+    
+}
+.heading h3{
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+    display: inline;
+    height: 100;
+    background-image: url("mari.jpg") ;
+}
+.heading button {
+
+    float: right;
+    border: 1px solid salmon;
+
+}
+ 
+h4{
+    background-color:slateblue ;
+    width: 100%;
+    line-height:2 ;
+    margin:0px ;
+}
+.modal-dialog{
+    width: 90%;
+
+}
+.Instruction_image{
+    width: 45%;
+    display: inline-block;
+}
+body{
+    background-position: center;
+    background-size: cover          ;
+}
+video{
+    background:url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    
+}
